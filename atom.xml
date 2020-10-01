@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chen Zehao ‘s blog</title>
   
-  
+  <subtitle>good good study, day day up!</subtitle>
   <link href="http://chenzehao-rgb.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenzehao-rgb.github.io/"/>
