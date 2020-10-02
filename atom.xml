@@ -6,7 +6,7 @@
   <link href="http://chenzehao-rgb.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenzehao-rgb.github.io/"/>
-  <updated>2020-10-02T14:33:46.148Z</updated>
+  <updated>2020-10-02T14:40:57.804Z</updated>
   <id>http://chenzehao-rgb.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://chenzehao-rgb.github.io/2020/10/01/wo-de-di-yi-pian-bo-wen/"/>
     <id>http://chenzehao-rgb.github.io/2020/10/01/wo-de-di-yi-pian-bo-wen/</id>
     <published>2020-10-01T14:23:53.000Z</published>
-    <updated>2020-10-02T14:33:46.148Z</updated>
+    <updated>2020-10-02T14:40:57.804Z</updated>
     
     
       
@@ -35,11 +35,11 @@
     
     
     
-    <category term="Typora" scheme="http://chenzehao-rgb.github.io/tags/Typora/"/>
+    <category term="教程" scheme="http://chenzehao-rgb.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="share" scheme="http://chenzehao-rgb.github.io/tags/share/"/>
+    <category term="Hexo" scheme="http://chenzehao-rgb.github.io/tags/Hexo/"/>
     
-    <category term="experience" scheme="http://chenzehao-rgb.github.io/tags/experience/"/>
+    <category term="Github" scheme="http://chenzehao-rgb.github.io/tags/Github/"/>
     
   </entry>
   
