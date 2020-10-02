@@ -6,7 +6,7 @@
   <link href="http://chenzehao-rgb.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenzehao-rgb.github.io/"/>
-  <updated>2020-10-01T14:23:53.553Z</updated>
+  <updated>2020-10-02T03:55:52.648Z</updated>
   <id>http://chenzehao-rgb.github.io/</id>
   
   <author>
@@ -17,27 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇博文</title>
+    <title>hexo+github 搭建个人博客教程</title>
     <link href="http://chenzehao-rgb.github.io/2020/10/01/wo-de-di-yi-pian-bo-wen/"/>
     <id>http://chenzehao-rgb.github.io/2020/10/01/wo-de-di-yi-pian-bo-wen/</id>
     <published>2020-10-01T14:23:53.000Z</published>
-    <updated>2020-10-01T14:23:53.553Z</updated>
+    <updated>2020-10-02T03:55:52.648Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       </summary>
+    <summary type="html">&lt;h1 id=&quot;搭建环境&quot;&gt;&lt;a href=&quot;#搭建环境&quot; class=&quot;headerlink&quot; title=&quot;搭建环境&quot;&gt;&lt;/a&gt;搭建环境&lt;/h1&gt;&lt;h2 id=&quot;安装Node-js&quot;&gt;&lt;a href=&quot;#安装Node-js&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    
+    <category term="Typora" scheme="http://chenzehao-rgb.github.io/tags/Typora/"/>
+    
+    <category term="share" scheme="http://chenzehao-rgb.github.io/tags/share/"/>
+    
+    <category term="experience" scheme="http://chenzehao-rgb.github.io/tags/experience/"/>
     
   </entry>
   
