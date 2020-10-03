@@ -117,27 +117,26 @@
   </entry>
   
   <entry>
-    <title>材料力学笔记</title>
+    <title>附录1：平面图形的几何性质</title>
     <link href="http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/"/>
     <id>http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/</id>
     <published>2020-10-02T15:01:58.000Z</published>
-    <updated>2020-10-02T15:01:58.219Z</updated>
+    <updated>2020-10-03T04:00:40.309Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
+    <summary type="html">&lt;h2 id=&quot;1-1-静矩和形心&quot;&gt;&lt;a href=&quot;#1-1-静矩和形心&quot; class=&quot;headerlink&quot; title=&quot;1.1 静矩和形心&quot;&gt;&lt;/a&gt;1.1 静矩和形心&lt;/h2&gt;&lt;script&gt;
        </summary>
         
       
     
     
     
+    
+    <category term="-材料力学 -笔记" scheme="http://chenzehao-rgb.github.io/tags/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6-%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -146,7 +145,7 @@
     <link href="http://chenzehao-rgb.github.io/2020/10/01/wo-de-di-yi-pian-bo-wen/"/>
     <id>http://chenzehao-rgb.github.io/2020/10/01/wo-de-di-yi-pian-bo-wen/</id>
     <published>2020-10-01T14:23:53.000Z</published>
-    <updated>2020-10-02T14:40:57.804Z</updated>
+    <updated>2020-10-03T03:56:19.268Z</updated>
     
     
       
