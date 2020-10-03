@@ -6,7 +6,7 @@
   <link href="http://chenzehao-rgb.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenzehao-rgb.github.io/"/>
-  <updated>2020-10-02T14:40:57.804Z</updated>
+  <updated>2020-10-02T15:04:40.970Z</updated>
   <id>http://chenzehao-rgb.github.io/</id>
   
   <author>
@@ -15,6 +15,131 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单片机学习</title>
+    <link href="http://chenzehao-rgb.github.io/2020/10/02/dan-pian-ji-xue-xi/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/02/dan-pian-ji-xue-xi/</id>
+    <published>2020-10-02T15:04:40.000Z</published>
+    <updated>2020-10-02T15:04:40.970Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>普通化学笔记</title>
+    <link href="http://chenzehao-rgb.github.io/2020/10/02/pu-tong-hua-xue-bi-ji/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/02/pu-tong-hua-xue-bi-ji/</id>
+    <published>2020-10-02T15:04:09.000Z</published>
+    <updated>2020-10-02T15:04:09.594Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>机械原理笔记</title>
+    <link href="http://chenzehao-rgb.github.io/2020/10/02/ji-jie-yuan-li-bi-ji/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/02/ji-jie-yuan-li-bi-ji/</id>
+    <published>2020-10-02T15:03:38.000Z</published>
+    <updated>2020-10-02T15:03:38.126Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>互换性与测量技术笔记</title>
+    <link href="http://chenzehao-rgb.github.io/2020/10/02/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/02/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/</id>
+    <published>2020-10-02T15:03:04.000Z</published>
+    <updated>2020-10-02T15:03:04.702Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>材料力学笔记</title>
+    <link href="http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/</id>
+    <published>2020-10-02T15:01:58.000Z</published>
+    <updated>2020-10-02T15:01:58.219Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo+github 搭建个人博客教程</title>
