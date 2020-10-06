@@ -6,7 +6,7 @@
   <link href="http://chenzehao-rgb.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenzehao-rgb.github.io/"/>
-  <updated>2020-10-02T15:04:40.970Z</updated>
+  <updated>2020-10-06T09:48:39.149Z</updated>
   <id>http://chenzehao-rgb.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>互换性与测量技术笔记</title>
+    <link href="http://chenzehao-rgb.github.io/2020/10/06/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/06/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/</id>
+    <published>2020-10-06T07:58:04.000Z</published>
+    <updated>2020-10-06T09:48:39.149Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;优先数和优先数系——统一的数值分级制度&quot;&gt;&lt;a href=&quot;#优先数和优先数系——统一的数值分级制度&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="笔记" scheme="http://chenzehao-rgb.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="互换性与测量技术" scheme="http://chenzehao-rgb.github.io/tags/%E4%BA%92%E6%8D%A2%E6%80%A7%E4%B8%8E%E6%B5%8B%E9%87%8F%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>单片机学习</title>
@@ -92,36 +117,11 @@
   </entry>
   
   <entry>
-    <title>互换性与测量技术笔记</title>
-    <link href="http://chenzehao-rgb.github.io/2020/10/02/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/"/>
-    <id>http://chenzehao-rgb.github.io/2020/10/02/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/</id>
-    <published>2020-10-02T15:03:04.000Z</published>
-    <updated>2020-10-02T15:03:04.702Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       </summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>附录Ⅰ：平面图形的几何性质</title>
     <link href="http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/"/>
     <id>http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/</id>
     <published>2020-10-02T15:01:58.000Z</published>
-    <updated>2020-10-05T15:25:37.011Z</updated>
+    <updated>2020-10-06T09:56:14.317Z</updated>
     
     
       
