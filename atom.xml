@@ -6,7 +6,7 @@
   <link href="http://chenzehao-rgb.github.io/atom.xml" rel="self"/>
   
   <link href="http://chenzehao-rgb.github.io/"/>
-  <updated>2020-10-07T15:00:45.465Z</updated>
+  <updated>2020-10-11T13:09:44.105Z</updated>
   <id>http://chenzehao-rgb.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>材料力学———第三章：扭转</title>
+    <link href="http://chenzehao-rgb.github.io/2020/10/11/cai-liao-li-xue-di-san-zhang-niu-zhuan/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/11/cai-liao-li-xue-di-san-zhang-niu-zhuan/</id>
+    <published>2020-10-11T10:50:26.000Z</published>
+    <updated>2020-10-11T13:09:44.105Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;扭转的概念&quot;&gt;&lt;a href=&quot;#扭转的概念&quot; class=&quot;headerlink&quot; title=&quot;扭转的概念&quot;&gt;&lt;/a&gt;扭转的概念&lt;/h2&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="笔记" scheme="http://chenzehao-rgb.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="材料力学" scheme="http://chenzehao-rgb.github.io/tags/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>互换性与测量技术笔记</title>
     <link href="http://chenzehao-rgb.github.io/2020/10/06/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/"/>
     <id>http://chenzehao-rgb.github.io/2020/10/06/hu-huan-xing-yu-ce-liang-ji-zhu-bi-ji/</id>
     <published>2020-10-06T07:58:04.000Z</published>
-    <updated>2020-10-07T15:00:45.465Z</updated>
+    <updated>2020-10-11T13:15:46.257Z</updated>
     
     
       
@@ -118,8 +143,8 @@
   
   <entry>
     <title>附录Ⅰ：平面图形的几何性质</title>
-    <link href="http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/"/>
-    <id>http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-bi-ji/</id>
+    <link href="http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-fu-lu-yi-ping-mian-tu-xing-de-ji-he-xing-zhi/"/>
+    <id>http://chenzehao-rgb.github.io/2020/10/02/cai-liao-li-xue-fu-lu-yi-ping-mian-tu-xing-de-ji-he-xing-zhi/</id>
     <published>2020-10-02T15:01:58.000Z</published>
     <updated>2020-10-06T09:56:14.317Z</updated>
     
