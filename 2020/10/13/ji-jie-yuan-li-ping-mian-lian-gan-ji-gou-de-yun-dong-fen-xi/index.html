@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="机械原理笔记, Chen Zehao ‘s blog">
+    <meta name="keywords" content="机械原理—平面连杆机构的运动分析(图解法), Chen Zehao ‘s blog">
     <meta name="description" content="这是一个用来记录和学习的blog">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>机械原理笔记 | Chen Zehao ‘s blog</title>
+    <title>机械原理—平面连杆机构的运动分析(图解法) | Chen Zehao ‘s blog</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -309,12 +309,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/1.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/21.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">机械原理笔记</h1>
+                    <h1 class="description center-align post-title">机械原理—平面连杆机构的运动分析(图解法)</h1>
                 </div>
             </div>
         </div>
@@ -429,9 +429,17 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E7%AC%94%E8%AE%B0/">
+                                <span class="chip bg-color">笔记</span>
+                            </a>
+                        
+                            <a href="/tags/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/">
+                                <span class="chip bg-color">机械原理</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
@@ -443,7 +451,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2020-10-02
+                    2020-10-13
                 </div>
                 
 
@@ -452,7 +460,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    52
+                    412
                 </div>
                 
 
@@ -474,7 +482,44 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <script>
+                <h2 id="速度瞬心法进行机构的运动分析"><a href="#速度瞬心法进行机构的运动分析" class="headerlink" title="速度瞬心法进行机构的运动分析"></a>速度瞬心法进行机构的运动分析</h2><h3 id="速度瞬心"><a href="#速度瞬心" class="headerlink" title="速度瞬心"></a>速度瞬心</h3><p><strong>瞬心：</strong>两构件上瞬时相对(绝对)速度<strong>相同的重合点</strong></p>
+<p>两运动构件之间的瞬心称为<strong>相对瞬心</strong>；运动构件与机架之间的瞬心称为<strong>绝对瞬心</strong></p>
+<p><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E9%80%9F%E5%BA%A6%E7%9E%AC%E5%BF%83.jpg" alt="速度瞬心"></p>
+<h3 id="机构中瞬心的数目"><a href="#机构中瞬心的数目" class="headerlink" title="机构中瞬心的数目"></a>机构中瞬心的数目</h3><p>由N个构件组成的机构，其瞬心的数目：<br>$$<br>K=\frac{N(N-1)}{2}<br>$$</p>
+<h3 id="机构中瞬心的位置"><a href="#机构中瞬心的位置" class="headerlink" title="机构中瞬心的位置"></a>机构中瞬心的位置</h3><h4 id="通过运动副直接相连的两构件的瞬心——直接观察"><a href="#通过运动副直接相连的两构件的瞬心——直接观察" class="headerlink" title="通过运动副直接相连的两构件的瞬心——直接观察"></a>通过运动副直接相连的两构件的瞬心——直接观察</h4><table>
+<thead>
+<tr>
+<th></th>
+<th>瞬心位置</th>
+<th>例子</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>转动副相连</td>
+<td>相对转动中心即为其瞬心</td>
+<td><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E8%BD%AC%E5%8A%A8%E5%89%AF.jpg" alt="转动副"></td>
+</tr>
+<tr>
+<td>移动副相连</td>
+<td>垂直移动导路方向的无穷远处</td>
+<td><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E7%A7%BB%E5%8A%A8%E5%89%AF.jpg" alt="移动副"></td>
+</tr>
+<tr>
+<td>平面高副相连</td>
+<td>1、既有相对滚动，又有相对滑动；2、纯滚动</td>
+<td><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E9%AB%98%E5%89%AF.jpg" alt="高副"><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E7%BA%AF%E6%BB%9A%E5%8A%A8%E5%89%AF.jpg" alt="纯滚动副"></td>
+</tr>
+</tbody></table>
+<h4 id="不直接相连的两构件的瞬心"><a href="#不直接相连的两构件的瞬心" class="headerlink" title="不直接相连的两构件的瞬心"></a>不直接相连的两构件的瞬心</h4><p><strong>三心定理：</strong>作平面运动的三个构件共有<strong>三个瞬心</strong>，它们必位于<strong>同一条直线上</strong></p>
+<p><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E4%B8%89%E5%BF%83%E5%AE%9A%E7%90%86.jpg" alt="三心定理"></p>
+<p>如图：$P_{13}、P_{12}、P_{23}$为机构的3个瞬心</p>
+<h3 id="瞬心在速度分析中的应用"><a href="#瞬心在速度分析中的应用" class="headerlink" title="瞬心在速度分析中的应用"></a>瞬心在速度分析中的应用</h3><p><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E9%93%B0%E9%93%BE%E5%9B%9B%E6%9D%86%E6%9C%BA%E6%9E%84%E7%9A%84%E7%9E%AC%E5%BF%83.jpg" alt="铰链四杆机构的瞬心"></p>
+<p>第一步：有瞬心计算公式，得该机构共有$(4\times3)\div2=6$个瞬心</p>
+<p>第二步：直接观察，$P_{12}、P_{23}、P_{14}、P_{34}$为其中4个瞬心</p>
+<p>第三步：由三心定理，得到$P_{13}、P_{24}$</p>
+<p><strong>传动比：</strong>$\frac{w1}{w3}=\frac{l_{P_{34}P_{13}}}{l_{P_{14}P_{13}}}$</p>
+<h2 id="用相对运动图解法进行机构的速度和加速度分析"><a href="#用相对运动图解法进行机构的速度和加速度分析" class="headerlink" title="用相对运动图解法进行机构的速度和加速度分析"></a>用相对运动图解法进行机构的速度和加速度分析</h2><p><img src="http://qhk3o4cdy.hn-bkt.clouddn.com//img/%E6%9C%BA%E6%9E%84%E8%BF%90%E5%8A%A8%E7%AE%80%E5%9B%BE1.jpg" alt="机构运动简图1"></p>
+<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -517,7 +562,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://ChenZehao-rgb.github.io/2020/10/02/ji-jie-yuan-li-bi-ji/">http://ChenZehao-rgb.github.io/2020/10/02/ji-jie-yuan-li-bi-ji/</a>
+                    <a href="http://ChenZehao-rgb.github.io/2020/10/13/ji-jie-yuan-li-ping-mian-lian-gan-ji-gou-de-yun-dong-fen-xi/">http://ChenZehao-rgb.github.io/2020/10/13/ji-jie-yuan-li-ping-mian-lian-gan-ji-gou-de-yun-dong-fen-xi/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -554,7 +599,15 @@
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/tags/%E7%AC%94%E8%AE%B0/">
+                                    <span class="chip bg-color">笔记</span>
+                                </a>
+                            
+                                <a href="/tags/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/">
+                                    <span class="chip bg-color">机械原理</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -594,17 +647,18 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/2020/10/02/pu-tong-hua-xue-bi-ji/">
+                <a href="/2020/10/13/ji-jie-yuan-li-ping-mian-lian-gan-ji-gou-de-yun-dong-fen-xi/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/8.jpg" class="responsive-img" alt="普通化学笔记">
+                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="机械原理—平面连杆机构的运动分析(图解法)">
                         
-                        <span class="card-title">普通化学笔记</span>
+                        <span class="card-title">机械原理—平面连杆机构的运动分析(图解法)</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -614,9 +668,9 @@
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2020-10-02
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2020-10-13
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-user fa-fw"></i>
@@ -624,6 +678,19 @@
                             
                         </span>
                     </div>
+                </div>
+
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E7%AC%94%E8%AE%B0/">
+                        <span class="chip bg-color">笔记</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/">
+                        <span class="chip bg-color">机械原理</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -635,13 +702,13 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2020/10/02/cai-liao-li-xue-fu-lu-yi-ping-mian-tu-xing-de-ji-he-xing-zhi/">
+                <a href="/2020/10/11/cai-liao-li-xue-di-san-zhang-niu-zhuan/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/4.jpg" class="responsive-img" alt="附录Ⅰ：平面图形的几何性质">
+                        <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="材料力学———第三章：扭转">
                         
-                        <span class="card-title">附录Ⅰ：平面图形的几何性质</span>
+                        <span class="card-title">材料力学———第三章：扭转</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -652,7 +719,7 @@
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-10-02
+                                <i class="far fa-clock fa-fw icon-date"></i>2020-10-11
                             </span>
                         <span class="publish-author">
                             
@@ -809,6 +876,13 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
 </main>
 
 
+<script src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$'], ['\(', '\)']]}
+    });
+</script>
+
 
 
     <footer class="page-footer bg-color">
@@ -877,7 +951,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">4.9k</span>&nbsp;字
+                class="white-color">5.2k</span>&nbsp;字
             
             
             
